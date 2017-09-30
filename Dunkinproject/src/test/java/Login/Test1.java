@@ -11,6 +11,7 @@ public class Test1 {
 		
 		String a = driver.getTitle();
 		System.out.println(a);
+		System.out.println("Welcome to class");
 
 	}
 
