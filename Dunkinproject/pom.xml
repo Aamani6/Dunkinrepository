@@ -3,6 +3,7 @@
   <groupId>123</groupId>
   <artifactId>Dunkinproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging></packaging>
   
   <dependencies>
   
